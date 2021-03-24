@@ -1,3 +1,3 @@
 # Genshin Project README
 
-Details to be filled in later after initial commit.
+This edited part here is for my second commit.
