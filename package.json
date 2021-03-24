@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon -r dotenv/config -e js app.js"
+    "dev": "nodemon -r dotenv/config -e js,ejs,css,html app.js"
   },
   "keywords": [],
   "author": "",
